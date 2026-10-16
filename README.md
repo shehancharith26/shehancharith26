@@ -1,6 +1,4 @@
-
-
-<!--# Hi, I'm Shehan! 👋
+# Hi, I'm Shehan! 👋
 
 ### 📊 Data Analytics | Power BI Dashboards | Python Data Cleaning
 
